@@ -1,0 +1,7 @@
+.navbar{
+    width: fit-content;
+    height:fit-content;
+    background-color:blue;
+    position:  sticky;
+    top: 5;
+}
